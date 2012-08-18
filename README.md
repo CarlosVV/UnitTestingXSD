@@ -1,7 +1,7 @@
 UnitTestingXSD
 ==============
 
-Code for blog post: 
+Code for blog post: http://blog.3d-logic.com/2012/08/18/unit-testing-xsd-schemas/
 
 Requirements:
  - Visual Studio 2010 or 2012
